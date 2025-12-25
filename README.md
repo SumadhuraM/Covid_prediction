@@ -30,7 +30,7 @@ A machine learning-based COVID-19 prediction system using 6 different algorithms
 
 ```bash
 # Clone the repository
-git clone <https://github.com/SumadhuraM/Covid_prediction/tree/master>
+git clone https://github.com/SumadhuraM/Covid_prediction/tree/master
 cd covid-prediction-project
 
 # Install dependencies
@@ -145,5 +145,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Disclaimer
 
 This system is for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult healthcare professionals for medical decisions.
+
 
 
